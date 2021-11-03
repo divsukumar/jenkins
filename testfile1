@@ -1,7 +1,8 @@
 public class projectjenkins
 {
-public static vod main()
+public static vod main(String[] args)
 {
+System.out.println("Newly added text");
 System.out.println("jshgjfhgsjhdj");
 }
 }
